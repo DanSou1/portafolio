@@ -1,0 +1,33 @@
+﻿#foto_P {
+    width: 200px;
+    margin: 10px;
+    border-radius: 35%;
+}
+.seccion-bienvenida{
+    margin: 5rem 0 10rem 0;
+}
+.seccion-bienvenida h1{
+    margin-bottom: 5rem;    
+}
+.seccion-bienvenida p{
+    font-family: sans-serif;
+    line-height:1.5;
+    font-size:1.5rem
+}
+#dotnet{
+    width:400px;
+}
+.cabecera{
+    font-weight: bold;
+}
+.main{
+    margin-top: -105px;
+}
+.habilidades ul{
+    list-style:none;
+    padding-left: 0;
+}
+.habilidades i {
+    color: #0d6efd;
+    font-size: 50px;
+}
