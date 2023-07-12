@@ -1,7 +1,11 @@
 ﻿using Portafolio.Models;
 namespace Portafolio.Servicios
 {
-    public class RepositorioProyectos
+    public interface IRepositorioProyectos
+    {
+        List<ProyectoDTO> obtenerProyectos();
+    }
+    public class RepositorioProyectos : IRepositorioProyectos
     {
         public List<ProyectoDTO> obtenerProyectos()
         {
