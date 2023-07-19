@@ -1,10 +1,15 @@
-﻿#foto_P {
+﻿.miCara{
+
+}
+
+#foto_P {
     width: 200px;
     margin: 10px;
     border-radius: 35%;
 }
 .seccion-bienvenida{
     margin: 5rem 0 10rem 0;
+
 }
 .seccion-bienvenida h1{
     margin-bottom: 5rem;    
@@ -14,8 +19,9 @@
     line-height:1.5;
     font-size:1.5rem
 }
-#dotnet{
-    width:400px;
+#dotnet {
+    width: 100px;
+    margin-top: 100px;
 }
 .cabecera{
     font-weight: bold;
